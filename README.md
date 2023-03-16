@@ -32,6 +32,7 @@ location = {Hyderabad, India},
 series = {CoDS COMAD 2020}
 }
 ```
-
+   
+   
 ## License
 Creative Commons Attribution 4.0 International [Link](https://github.com/pratikkayal/PlantDoc-Dataset/blob/master/LICENSE.txt)
